@@ -1,4 +1,4 @@
-#💙 DIO Desafio GitHub
+##💙 DIO Desafio GitHub
 
 Este repositório foi criado para o Desafio de Projeto sobre Git e GitHub da Digital Innovation One (DIO). Aqui, você encontrará exemplos práticos de utilização do Git e GitHub, fundamentais para o desenvolvimento colaborativo de projetos.
 
